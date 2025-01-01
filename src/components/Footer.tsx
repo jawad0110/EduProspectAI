@@ -1,7 +1,7 @@
 import React from 'react';
 import { GraduationCap } from 'lucide-react';
 
-const navItems = ['About', 'Solution', 'Case Studies', 'Contact'];
+const navItems = ['About', 'Solution', 'Contact'];
 
 export default function Footer() {
   return (
